@@ -1,0 +1,19 @@
+body {
+    background: wheat;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+img {
+    width: 30%;
+    border: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+}
+

@@ -1,0 +1,13 @@
+body {
+    background: wheat;     /* red, blue, yellow, etc */
+    color: brown;             /* red, blue, yellow, etc */
+    font-size: 35px;        /* 0px - 100px and beyond */
+    font-weight: bold;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 50px;        /* From 0px and upwards   */
+}
+
+
+
+
+
